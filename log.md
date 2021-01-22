@@ -24,3 +24,14 @@
 4. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 5. [Intro to Tutorials Challenge](https://www.hackerrank.com/challenges/tutorial-intro/problem)
 6. [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+
+### Day 3: January 22, 2021
+
+**Today's Progress**: Solved a couple of more questions on "DSA" using Python.
+
+**Thoughts:**: Time Management is hard at home I know! It's okay. Sometimes, it happens. Just make sure you learn everyday and procastinate as less as possible. 
+
+**Link(s) to work**
+
+1. [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
+2. [Conditional Statement: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)
