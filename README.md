@@ -19,6 +19,7 @@
 | 1 | Setup, Learned about time complexity, HackerRank Questions Solved - 3 | Markdown, Python | Done
 | 2 | 2 Star in Problem Solving on HackerRank, Questions Solved - 6 | Python | Done
 | 3 | Hackerrank Questons Solved - 2 | Python, JS | Done
+| 4 | Hackerrank Questons Solved - 4 | Python | Done
 
 
 ---

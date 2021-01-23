@@ -35,3 +35,16 @@
 
 1. [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
 2. [Conditional Statement: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)
+
+### Day 4: January 23, 2021
+
+**Today's Progress**: Solved a couple of more questions on "DSA" using Python.
+
+**Thoughts:**: You need to make your basics strong. Then only, it will be less challenging. Go On! You got this.
+
+**Link(s) to work**
+
+1. [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
+2. [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
+3. [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)
+4. [Input](https://www.hackerrank.com/challenges/input/problem)
