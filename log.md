@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 20, 2021
+### Day 0: January 20, 2021
 
 **Today's Progress**: Learned the time complexity for the different alogrithms present and solved copule of questions on Hackerank.
 
@@ -11,7 +11,7 @@
 2. [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 3. [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 
-### Day 2: January 21, 2021
+### Day 1: January 21, 2021
 
 **Today's Progress**: Solved a couple of more questions on "DSA" using Python. 2 Stars in Problem Solving on Hackerrank. 
 
@@ -25,7 +25,7 @@
 5. [Intro to Tutorials Challenge](https://www.hackerrank.com/challenges/tutorial-intro/problem)
 6. [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
 
-### Day 3: January 22, 2021
+### Day 2: January 22, 2021
 
 **Today's Progress**: Solved a couple of more questions on "DSA" using Python.
 
@@ -36,7 +36,7 @@
 1. [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)
 2. [Conditional Statement: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)
 
-### Day 4: January 23, 2021
+### Day 3: January 23, 2021
 
 **Today's Progress**: Solved a couple of more questions on "DSA" using Python.
 
@@ -48,3 +48,14 @@
 2. [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
 3. [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)
 4. [Input](https://www.hackerrank.com/challenges/input/problem)
+
+### Day 4: January 24, 2021
+
+**Today's Progress**: Weekends are hard to work on! You gotta need to find a more subtle way of learning. DO NOT LOSE YOUR FOCUS.
+
+**Thoughts:**: 
+
+**Link(s) to work**
+
+1. [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+2. [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
